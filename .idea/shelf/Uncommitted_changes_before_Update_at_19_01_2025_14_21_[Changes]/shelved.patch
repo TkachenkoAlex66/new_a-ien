@@ -1,0 +1,158 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5c749371-9a61-42cd-afb7-b2178b130018\" name=\"Changes\" comment=\"11\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/alieninvasion.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/alieninvasion.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/settings.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/alieninvasion.py\" root0=\"FORCE_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2rRgDQhbsvucXhUaMGu2XqkB5Jg\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python.1.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.alieninvasion.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.settings.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.ship.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/tkach/PycharmProjects/new_alien&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\tkach\\PycharmProjects\\new_alien\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"alieninvasion\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"new_alien\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"SDK_NAME\" value=\"Python 3.12 (New_Alien)\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/alieninvasion.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5c749371-9a61-42cd-afb7-b2178b130018\" name=\"Changes\" comment=\"\" />\r\n      <created>1736527181898</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1736527181898</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736603587903</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736603587903</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1736603598633</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1736603598633</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"11\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1737276414869</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1737276414869</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"1\" />\r\n    <MESSAGE value=\"11\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"11\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 257b6b80f5556d713ba08747ee250f8b2a7d935b)
++++ b/.idea/workspace.xml	(date 1737278461040)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5c749371-9a61-42cd-afb7-b2178b130018" name="Changes" comment="11">
++    <list default="true" id="5c749371-9a61-42cd-afb7-b2178b130018" name="Changes" comment="1">
++      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/new_alien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new_alien.iml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/alieninvasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alieninvasion.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+@@ -22,6 +25,12 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="HighlightingSettingsPerFile">
+@@ -44,8 +53,10 @@
+     &quot;Python.ship.executor&quot;: &quot;Run&quot;,
+     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tkach/PycharmProjects/new_alien&quot;
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/tkach/PycharmProjects/new_alien&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+   }
+ }</component>
+   <component name="RecentsManager">
+@@ -63,7 +74,7 @@
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+       <option name="SDK_HOME" value="" />
+-      <option name="SDK_NAME" value="Python 3.12 (New_Alien)" />
++      <option name="SDK_NAME" value="Python 3.12 (pythonProject4)" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+       <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+@@ -110,20 +121,22 @@
+       <option name="project" value="LOCAL" />
+       <updated>1736603598633</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="11">
+-      <option name="closed" value="true" />
+-      <created>1737276414869</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1737276414869</updated>
+-    </task>
+-    <option name="localTasksCounter" value="4" />
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="1" />
+-    <MESSAGE value="11" />
+-    <option name="LAST_COMMIT_MESSAGE" value="11" />
++    <option name="LAST_COMMIT_MESSAGE" value="1" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
++          <url>file://$PROJECT_DIR$/alieninvasion.py</url>
++          <line>15</line>
++          <option name="timeStamp" value="2" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: alieninvasion.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import sys\r\nimport pygame\r\nfrom settings import Settings\r\nfrom ship import Ship\r\nfrom bullet import Bullet\r\nclass AlienInvasion:\r\n    def __init__(self):\r\n        pygame.init()\r\n        self.settings = Settings()\r\n        self.screen = pygame.display.set_mode((self.settings.screen_height,self.settings.screen_width))\r\n        self.bg_color = (self.settings.bg_color)\r\n        self.ship = Ship(self)\r\n        self.bullets = pygame.sprite.Group()\r\n        pygame.display.set_caption(self.settings.game_name)\r\n    def run_game(self):\r\n        while True:\r\n            self._check_events()\r\n            self.ship.update()\r\n            self._update_bullet()\r\n            self._update_screen()\r\n\r\n\r\n    def _check_events(self):\r\n         for event in pygame.event.get():\r\n            if event.type == pygame.QUIT:\r\n                exit()\r\n            elif event.type == pygame.KEYDOWN:\r\n                self._check_keydown_events(event)\r\n            elif event.type == pygame.KEYUP:\r\n                self._check_keyup_events(event)\r\n    def _check_keydown_events(self, event):\r\n        \"\"\"Реагиреут на нажатие клавиш\"\"\"\r\n        if event.key == pygame.K_RIGHT:\r\n            self.ship.moving_right = True\r\n        elif event.key == pygame.K_LEFT:\r\n            self.ship.moving_left = True\r\n        elif event.key == pygame.K_q:\r\n            exit()\r\n        elif event.key == pygame.K_SPACE:\r\n            self._fire_bullet()\r\n\r\n    def _check_keyup_events(self, event):\r\n        \"\"\"Реагирует на отпускание клавишь\"\"\"\r\n        if event.key == pygame.K_RIGHT:\r\n            self.ship.moving_right = False\r\n        elif event.key == pygame.K_LEFT:\r\n            self.ship.moving_left = False\r\n\r\n    def _fire_bullet(self):\r\n        \"\"\"Создание нового снаряда и включение его в группу Bullets\"\"\"\r\n        if len(self.bullets) < self.settings.bullet_allowed:\r\n            new_bullet = Bullet(self)\r\n            self.bullets.add(new_bullet)\r\n\r\n\r\n    def _update_bullet(self):\r\n        self.bullets.update()\r\n        # Удаление снаоядов вышедших за край экрана\r\n        for bullet in self.bullets.copy():\r\n            if bullet.rect.bottom <= 0:\r\n                self.bullets.remove((bullet))\r\n        # print(len(self.bullets))\r\n\r\n    def _update_screen(self):\r\n        self.screen.fill(self.settings.bg_color)\r\n        self.ship.blitme()\r\n        for bullet in self.bullets.sprites():\r\n            bullet.draw_bullet()\r\n        pygame.display.flip()\r\n\r\nif __name__ == '__main__':\r\n    ai = AlienInvasion()\r\n    ai.run_game()\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/alieninvasion.py b/alieninvasion.py
+--- a/alieninvasion.py	(revision 257b6b80f5556d713ba08747ee250f8b2a7d935b)
++++ b/alieninvasion.py	(date 1737277756056)
+@@ -2,24 +2,24 @@
+ import pygame
+ from settings import Settings
+ from ship import Ship
+-from bullet import Bullet
++from bullet import Bulet
+ class AlienInvasion:
+     def __init__(self):
+         pygame.init()
+         self.settings = Settings()
+         self.screen = pygame.display.set_mode((self.settings.screen_height,self.settings.screen_width))
++        # self.settings.screen_width = self.screen.get_rect().width
++        # self.settings.screen_height = self.screen.get_rect().height
+         self.bg_color = (self.settings.bg_color)
+         self.ship = Ship(self)
+-        self.bullets = pygame.sprite.Group()
++        self.bulets = pygame.sprite.Group()
+         pygame.display.set_caption(self.settings.game_name)
+     def run_game(self):
+         while True:
+             self._check_events()
+             self.ship.update()
+-            self._update_bullet()
+             self._update_screen()
+-
+-
++            self.bulets.update()
+     def _check_events(self):
+          for event in pygame.event.get():
+             if event.type == pygame.QUIT:
+@@ -48,23 +48,14 @@
+ 
+     def _fire_bullet(self):
+         """Создание нового снаряда и включение его в группу Bullets"""
+-        if len(self.bullets) < self.settings.bullet_allowed:
+-            new_bullet = Bullet(self)
+-            self.bullets.add(new_bullet)
++        new_bullet = Bulet(self)
++        self.bulets.add(new_bullet)
+ 
+-
+-    def _update_bullet(self):
+-        self.bullets.update()
+-        # Удаление снаоядов вышедших за край экрана
+-        for bullet in self.bullets.copy():
+-            if bullet.rect.bottom <= 0:
+-                self.bullets.remove((bullet))
+-        # print(len(self.bullets))
+ 
+     def _update_screen(self):
+         self.screen.fill(self.settings.bg_color)
+         self.ship.blitme()
+-        for bullet in self.bullets.sprites():
++        for bullet in self.bulets.sprites():
+             bullet.draw_bullet()
+         pygame.display.flip()
+ 
