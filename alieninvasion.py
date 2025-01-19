@@ -2,7 +2,7 @@ import sys
 import pygame
 from settings import Settings
 from ship import Ship
-from bullet import Bulet
+from bullet import Bullet
 class AlienInvasion:
     def __init__(self):
         pygame.init()
@@ -12,14 +12,20 @@ class AlienInvasion:
         # self.settings.screen_height = self.screen.get_rect().height
         self.bg_color = (self.settings.bg_color)
         self.ship = Ship(self)
-        self.bulets = pygame.sprite.Group()
+        self.bullets = pygame.sprite.Group()
         pygame.display.set_caption(self.settings.game_name)
     def run_game(self):
         while True:
             self._check_events()
             self.ship.update()
             self._update_screen()
-            self.bulets.update()
+            self.bullets.update()
+            # Удаление снаоядов вышедших за край экрана
+            for bullet in self.bullets.copy():
+                if bullet.rect.bottom <= 0:
+                    self.bullets.remove((bullet))
+            print(len(self.bullets))
+
     def _check_events(self):
          for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -48,14 +54,14 @@ class AlienInvasion:
 
     def _fire_bullet(self):
         """Создание нового снаряда и включение его в группу Bullets"""
-        new_bullet = Bulet(self)
-        self.bulets.add(new_bullet)
+        new_bullet = Bullet(self)
+        self.bullets.add(new_bullet)
 
 
     def _update_screen(self):
         self.screen.fill(self.settings.bg_color)
         self.ship.blitme()
-        for bullet in self.bulets.sprites():
+        for bullet in self.bullets.sprites():
             bullet.draw_bullet()
         pygame.display.flip()
 
