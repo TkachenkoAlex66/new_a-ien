@@ -1,6 +1,6 @@
 import pygame
 from pygame.sprite import Sprite
-class Bulet(Sprite):
+class Bullet(Sprite):
     def __init__(self, ai_game):
         """Создает объект снарядов в текущей позиции корабля"""
         super().__init__()
