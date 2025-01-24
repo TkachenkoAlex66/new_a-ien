@@ -2,7 +2,7 @@ import pygame
 from pygame.sprite import Sprite
 class Alien(Sprite):
     """Класс представляющий одного пришельца"""
-    def __init__(self, ai_game):
+    def __init__(self, ai_game: object) -> object:
         """Инициализирует пришельца и задает его начальную позицию"""
         super().__init__()
         self.screen = ai_game.screen
